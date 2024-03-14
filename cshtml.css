@@ -1,0 +1,27 @@
+body {
+    background-image: url("code.jpg");
+    width: 100%;
+  }/* this line of code make the background image*/
+  div {
+    border-style: groove; /* defining border style */
+    border-width: 7px; /* defining border size */
+    border-color: coral; /* defining border colour */
+    text-align: center;
+    
+    
+  }/*it takes entire space*/
+  
+  h1 {
+    color: rgb(138, 16, 238); /*this makes the text navy blue*/
+    margin-left: 20px;
+  
+    height: 20px; /*height in pixels*/
+    width: 50%; /* width in %*/
+    text-align: center;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+
+  
+  
